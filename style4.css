@@ -1,0 +1,50 @@
+.img1{
+        position:absolute;
+
+        width: 760px;
+        height: 260px;
+        left: 505px;
+        top: 260px;
+        float: left;
+    }
+
+    .img2{
+        position:absolute;
+
+        width: 790px;
+        height: 800px;
+        left: 485px;
+        top: 450px;
+        float: left;
+    }
+
+    .img3{
+        position:absolute;
+
+        width: 300px;
+        height: 580px;
+        left: 120px;
+        top: 580px;
+        float: left;
+    }
+
+    .img4{
+        position: absolute;
+        width: 400px;
+        height: 190px;
+        left: 80px;
+        top: 260px;
+        float: left;
+    }
+
+    .text{
+        position: absolute;
+        width: 500px;
+            height: 700px;
+            float: left;
+            top: 250px;
+            right: 0;
+
+    }
+
+    
